@@ -10,7 +10,6 @@ public class Tab : MonoBehaviour
 
     protected void Start()
     {
-        //gameObject.GetComponent<InputField>().onEndEdit.AddListener(displayText);
         system = EventSystem.current;
     }
 
